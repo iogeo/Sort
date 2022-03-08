@@ -1,9 +1,9 @@
-#ifndef ALASEstimatedSort
-#define ALASEstimatedSort
+#ifndef ALASEstimativeSort
+#define ALASEstimativeSort
 
 namespace alas
 {
-	template <typename t> void EstimatedSort(t* a, int s)
+	template <typename t> void EstimativeSort(t* a, int s)
 	{
 		if(s-1)
 		{
